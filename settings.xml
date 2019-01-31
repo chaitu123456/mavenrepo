@@ -1,0 +1,14 @@
+<settings>
+<servers>
+	<server>
+		<id>ARTECH</id>
+		<username>admin</username>
+		<password>admin123</password>
+	</server>
+	<server>
+		<id>pcr</id>
+		<username>admin</username>
+		<password>admin123</password>
+	</server>
+</servers>
+</settings>
