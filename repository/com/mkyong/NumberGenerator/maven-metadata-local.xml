@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.mkyong</groupId>
+  <artifactId>NumberGenerator</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190131100109</lastUpdated>
+  </versioning>
+</metadata>
